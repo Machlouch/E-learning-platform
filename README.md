@@ -1,4 +1,4 @@
-****************************************  Description du Projet  ******************************************
+****************************************  Description du Projet  **************************************************************************************************************************************
 
 Ce projet, développé avec Spring Boot, est une application dédiée à l'e-learning qui offre des fonctionnalités de gestion de classes et d'emplois du temps à la fois pour les enseignants et les étudiants.
 L'application permet de :
